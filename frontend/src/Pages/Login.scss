@@ -1,0 +1,32 @@
+@import './Variables.scss';
+
+
+#Right {
+  display: flex;
+  float: right;
+  width: 60%;
+  height: 50%;
+  
+}
+
+#Left {
+  background-color: $backgroundColor;
+  display: flex;
+  float: left;
+  width: 40%;
+  flex-direction: column;
+  justify-content: center;
+  height: 50%;
+  padding: 2%;
+  margin-top: 22%;
+  border-top: #3AAFA9 solid 5px;
+  border-bottom: #3AAFA9 solid 5px;
+}
+
+#Left h1 {
+  font-size: 1.75rem;
+  color: #17252A;
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+}

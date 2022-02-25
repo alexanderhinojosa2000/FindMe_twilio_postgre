@@ -1,0 +1,10 @@
+.displayCat {
+  // background-color: pink;
+  padding: 10px;
+
+  .ant-card-cover > * {
+    display: block;
+    width: 100%;
+    height: 240px;
+  }
+}

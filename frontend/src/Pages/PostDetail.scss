@@ -1,0 +1,71 @@
+@import "./Variables.scss";
+
+.detailsPage {
+  background-color: $backgroundColor;
+  padding: 1% 0 1% 0;
+}
+
+.postDetail {
+  // border-top: #17252a solid 5px;
+  // border-bottom: #17252a solid 5px;
+  // display: flex;
+  // align-items: center;
+  // justify-content: center;
+  // align-content: center;
+  // flex-wrap: nowrap;
+  // flex-direction: row;
+  // background: #3aafa9;
+  // color: #feffff;
+
+  border: #17252a solid 5px;
+  align-content: stretch;
+  flex-direction: column;
+  background: #3aafa9;
+  color: #feffff;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.detailsTitle {
+  margin-top: 8%;
+  display: flex;
+  justify-content: center;
+}
+
+#commentArea {
+  padding: 6%;
+  margin: 5%;
+  border: solid #17252a;
+
+  .ant-list * {
+    outline: none;
+    font-size: 22px;
+  }
+
+  .ant-comment-avatar img {
+    width: 45px;
+    height: 45px;
+  }
+
+  .ant-comment-inner {
+    display: flex;
+    padding: 16px 0;
+    border-top: solid;
+  }
+  ant-comment-content-author > span {
+    padding-right: 8px;
+    font-size: 22px;
+    line-height: 18px;
+  }
+}
+
+// border-top: #17252a solid 5px;
+// border-bottom: #17252a solid 5px;
+// display: flex;
+// flex-wrap: nowrap;
+// flex-direction: column;
+// background: #3aafa9;
+// color: #feffff;
+// align-items: center;
+// align-content: stretch;
+// }

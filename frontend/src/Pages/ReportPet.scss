@@ -1,0 +1,56 @@
+@import "./Variables.scss";
+
+.report {
+  background-color: $backgroundColor;
+  height: 95vh;
+}
+div.ant-row.ant-form-item {
+  display: flex;
+  justify-content: space-evenly;
+  // margin-left: 30em;
+}
+
+div.ant-row {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+#register {
+  padding: $padding;
+  padding-top: 2%;
+}
+
+#header {
+  background-color: rgb(47, 155, 4);
+}
+
+#content {
+  background-color: $backgroundColor;
+}
+
+#content h1 {
+  color: #17252a;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  padding-top: 8%;
+}
+
+#footer {
+  background-color: rgb(155, 4, 29);
+}
+
+#sider {
+  display: flex;
+  background-color: rgb(42, 99, 42);
+  width: 50px;
+}
+
+.share-icons {
+  display: flex;
+  font-size: xx-large;
+  flex-direction: column;
+  row-gap: 30px;
+  align-content: space-between;
+}
