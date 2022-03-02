@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useContext } from 'react'
-// import "./Navbar.scss";
+import "./Navbar.scss";
 import { Link, useNavigate } from 'react-router-dom'
 import { Button } from './Button';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'

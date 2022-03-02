@@ -11,8 +11,6 @@ export default function CatVideo() {
       <video autoPlay loop muted>
       <source src={mixCat} type='video/mp4'/>
       </video>
-    
-      <h1>Find Me-Ow <i class="fas fa-cat"></i></h1>
       <br></br>
       <br></br>
       <br></br>
