@@ -3,11 +3,15 @@ Find Me-ow! is an app to help to unite lost cats and found cats with their owner
 
 ## Final Product
 
-!["Gif of full page"]()
+!["Gif of full page"](https://github.com/CarlSmoky/find_me-ow/blob/main/docs/Home.png?raw=true)
 
-!["Screenshot of Login and Signup"]()
+!["Screenshot of Login"](https://github.com/CarlSmoky/find_me-ow/blob/main/docs/login.png?raw=true)
 
-!["Screenshot of Detail page"]()
+!["Screenshot of Search"](https://github.com/CarlSmoky/find_me-ow/blob/main/docs/Search.png?raw=true)
+
+!["Screenshot of Detail page"](https://github.com/CarlSmoky/find_me-ow/blob/main/docs/Detail.png?raw=true)
+
+!["Screenshot of Comments"](https://github.com/CarlSmoky/find_me-ow/blob/main/docs/Comments.png?raw=true)
 
 
 ## Setup
