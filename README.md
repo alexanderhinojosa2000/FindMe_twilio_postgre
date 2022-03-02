@@ -1,6 +1,9 @@
 # Find Me-ow!
 Find Me-ow! is an app to help to unite lost cats and found cats with their owners.
 
+## Features
+Login | Sign Up | Logout | Search | Comments | Report | Map
+
 ## Final Product
 
 !["Gif of full page"](https://github.com/CarlSmoky/find_me-ow/blob/main/docs/Home.png?raw=true)
@@ -43,4 +46,3 @@ npm start
 - cors
 - express
 - morgan
-- 
