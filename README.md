@@ -3,7 +3,7 @@ Find Me-ow! is an app to help to unite lost cats and found cats with their owner
 This is a group project with Walid Douri and Mei Chun Nghiem-Lin.
 
 ## Features
-Login | Sign Up | Logout | Search | Comments | Report | Map
+Login | Sign Up | Search | Comments | Report | Map
 
 ## Final Product
 
