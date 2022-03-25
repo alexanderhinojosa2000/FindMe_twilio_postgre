@@ -36,7 +36,7 @@ export default function Map() {
   useEffect(() => {
     axios.get(`http://localhost:3001/api/catforms/${id}`)
       .then((resFromDB) => {
-      axios.get(`https://maps.googleapis.com/maps/api/geocode/json?address=${resFromDB.data.last_seen_postal_code}&key=AIzaSyDuquoM3MMOrjR3Gs_kJikJxh32zOZosuA`)
+      axios.get(`https://maps.googleapis.com/maps/api/geocode/json?address=${resFromDB.data.last_seen_postal_code}&key=${googleMapsApiKey}`)
       // REMOVE THE KEY WHEN WE CLEAN UP THE CODE
        .then((respFromGoogleMaps) => {
          setCatLocation(respFromGoogleMaps.data.results[0].geometry.location);
