@@ -22,10 +22,16 @@ Login | Sign Up | Search | Comments | Report | Map
 
 Install dependencies with `npm install`.
 
-## Running Webpack Development Server
+## Running Front-end Server
 
 ```sh
 npm start
+```
+
+## Running Back-end developement Server
+
+```sh
+npm run dev
 ```
 
 
