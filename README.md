@@ -23,26 +23,3 @@ This is a final project at the Lighthouse Labs collaborating with Walid Douri an
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </div>
 
-### Current Issues
-
-- Currently sign up isnot allowed
-
-### Instration
-1. Clone this repository
-```console
-$ git clone git@github.com:CarlSmoky/find_me-ow.git
-```
-
-2. Install packages
-```console
-$ cd find_me-ow
-$ npm install
-```
-
-3. Start React APP
-```console
-$ npm run start
-```
-
-4. Run the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
